@@ -3,5 +3,5 @@ how we make jailbreaks is irrelevant
 we just make them
 
 who are us:
-@xplanthris
-@Anonzie
+https://github.com/xplanthris
+https://github.com/Anonzie
