@@ -1,12 +1,8 @@
-# we are broken jailbreaks inc.
+# We are Broken Jailbreaks LLC
 
-# # if your phone explodes we are not responsible
+## We write jailbreaks that somehow work, we have no idea how, they just do.
 
-how we make jailbreaks is irrelevant<br>
-we just make them<br>
+###  Current Members:
 
-who are us:<br>
-
-[Xplanthris](https://github.com/xplanthris)<br>
-and<br>
-[Anonzie](https://github.com/Anonzie)<br>
+#### - [Xplanthris](https://github.com/xplanthris)
+#### - [Anonzie](https://github.com/Anonzie)
