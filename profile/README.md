@@ -1,8 +1,12 @@
 # We are Broken Jailbreaks LLC
 
-## We write jailbreaks that somehow work, we have no idea how, they just do.
+We write jailbreaks that somehow work.
+We have no idea how or why.
+They just do.
 
-###  Current Members:
+And your phone may explode
 
-#### - [Xplanthris](https://github.com/xplanthris)
-#### - [Anonzie](https://github.com/Anonzie)
+Current Members:
+
+- [Xplanthris](https://github.com/xplanthris)
+- [Anonzie](https://github.com/Anonzie)
