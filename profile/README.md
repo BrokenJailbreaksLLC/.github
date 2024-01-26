@@ -1,11 +1,7 @@
-# We are Broken Jailbreaks LLC
+## Hi there, we are Broken Jailbreaks LLC
 
-We write jailbreaks that somehow work. <br>
-We have no idea how or why. <br>
-They just do. <br>
-And your phone may explode. <br>
+- We code jailbreaks that just *work*
+- We have no idea what we are doing
+- Skidding seems kinda nice now
 
-Current Members:
-
-- [Xplanthris](https://github.com/xplanthris)
-- [Anonzie](https://github.com/Anonzie)
+## The end
